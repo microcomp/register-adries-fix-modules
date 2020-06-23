@@ -8,47 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b2667bf4-e5b3-4c4b-8003-5126f89e2785" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/CkanClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/CkanClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/InitialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/InitialTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/Registers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/Registers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/RequestBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/RequestBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/additional_fixes/Fix1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/TestDataCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/TestDataCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/ckan/ChangesManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/ckan/ChangesManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/ckan/ResourceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/ckan/ResourceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/transform/XmlToJsonTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/transform/XmlToJsonTransformer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/init_changed_ids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/init_changed_ids.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/resource_ids_prod.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/resource_ids_prod.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Budovy/Dokumentácia datasetu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Byty/08-Register adries-Byty- Init dávka, 2.3 MB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Byty/Dokumentácia datasetu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Kraje/01-Register adries-Kraje- Init dávka, 10 kB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Kraje/Dokumentácia datasetu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Obce/03-Register adries-Obce- Init dávka, 2 MB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Obce/Dokumentácia datasetu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Okresy/02-Register adries-Okresy- Init dávka, 50 kB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Okresy/Dokumentácia datasetu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Ulice/05-Register adries-Ulice- Init dávka, 21.3 MB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Ulice/Dokumentácia datasetu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Vchody/Dokumentácia datasetu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Časti obcí/04-Register adries-Časti obcí- Init dávka, 2.2 MB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Časti obcí/Dokumentácia datasetu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/init_changed_ids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/init_changed_ids.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ra/CkanClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/CkanClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ra/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ra/Registers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/Registers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ra/RequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/RequestBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ra/TestDataCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/TestDataCreator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ra/ckan/ChangesManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/ckan/ChangesManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer$ChangeElementOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer$ChangeElementOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer$Mode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer$Mode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer$RegisterType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer$RegisterType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/resource_ids_prod.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/resource_ids_prod.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
