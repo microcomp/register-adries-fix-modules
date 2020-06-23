@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="register-adries-fix:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2667bf4-e5b3-4c4b-8003-5126f89e2785" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/CkanClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/CkanClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/InitialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/InitialTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/Registers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/Registers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/RequestBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/RequestBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/additional_fixes/Fix1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/TestDataCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/TestDataCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/ckan/ChangesManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/ckan/ChangesManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/ckan/ResourceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/ckan/ResourceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/transform/XmlToJsonTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/transform/XmlToJsonTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/init_changed_ids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/init_changed_ids.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/resource_ids_prod.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/resource_ids_prod.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Budovy/Dokumentácia datasetu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Byty/08-Register adries-Byty- Init dávka, 2.3 MB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Byty/Dokumentácia datasetu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Kraje/01-Register adries-Kraje- Init dávka, 10 kB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Kraje/Dokumentácia datasetu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Obce/03-Register adries-Obce- Init dávka, 2 MB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Obce/Dokumentácia datasetu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Okresy/02-Register adries-Okresy- Init dávka, 50 kB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Okresy/Dokumentácia datasetu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Ulice/05-Register adries-Ulice- Init dávka, 21.3 MB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Ulice/Dokumentácia datasetu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Vchody/Dokumentácia datasetu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Časti obcí/04-Register adries-Časti obcí- Init dávka, 2.2 MB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test/Časti obcí/Dokumentácia datasetu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/init_changed_ids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/init_changed_ids.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ra/CkanClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/CkanClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ra/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ra/Registers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/Registers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ra/RequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/RequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ra/TestDataCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/TestDataCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ra/ckan/ChangesManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/ckan/ChangesManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer$ChangeElementOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer$ChangeElementOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer$Mode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer$Mode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer$RegisterType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer$RegisterType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ra/transform/XmlToJsonTransformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/resource_ids_prod.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/resource_ids_prod.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1PlqRTzBt03wrLHpRjVQxb1BOlK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="init" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/transform" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Fix1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.additional_fixes.Fix1" />
+      <module name="register-adries-fix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.additional_fixes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitBatchConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.transform.InitBatchConverter" />
+      <module name="register-adries-fix" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.Main" />
+      <module name="register-adries-fix" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tempmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.Tempmain" />
+      <module name="register-adries-fix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.additional_fixes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.Utils" />
+      <module name="register-adries-fix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.additional_fixes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.InitBatchConverter" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Tempmain" />
+      <item itemvalue="Application.Utils" />
+      <item itemvalue="Application.Fix1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Fix1" />
+        <item itemvalue="Application.Tempmain" />
+        <item itemvalue="Application.InitBatchConverter" />
+        <item itemvalue="Application.Utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2667bf4-e5b3-4c4b-8003-5126f89e2785" name="Default Changelist" comment="" />
+      <created>1566459022511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566459022511</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.name" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="273" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585151995143">
+      <screen x="57" y="24" width="1503" height="854" />
+    </state>
+    <state x="273" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/57.24.1503.854@57.24.1503.854" timestamp="1585151995143" />
+    <state x="755" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1586249958460">
+      <screen x="57" y="24" width="1771" height="1004" />
+    </state>
+    <state x="755" y="200" key="#com.intellij.ide.util.MemberChooser/57.24.1771.1004@57.24.1771.1004" timestamp="1586249958460" />
+    <state x="546" y="232" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585153866827">
+      <screen x="57" y="24" width="1503" height="854" />
+    </state>
+    <state x="546" y="232" key="#com.intellij.ide.util.TreeClassChooserDialog/57.24.1503.854@57.24.1503.854" timestamp="1585153866827" />
+    <state x="413" y="61" key="CommitChangelistDialog2" timestamp="1587376517289">
+      <screen x="57" y="24" width="1771" height="1004" />
+    </state>
+    <state x="413" y="61" key="CommitChangelistDialog2/57.24.1771.1004@57.24.1771.1004" timestamp="1587376517289" />
+    <state x="440" y="190" key="FileChooserDialogImpl" timestamp="1585153894469">
+      <screen x="57" y="24" width="1503" height="854" />
+    </state>
+    <state x="440" y="190" key="FileChooserDialogImpl/57.24.1503.854@57.24.1503.854" timestamp="1585153894469" />
+    <state width="1725" height="169" key="GridCell.Tab.0.bottom" timestamp="1591775824209">
+      <screen x="57" y="24" width="3600" height="1823" />
+    </state>
+    <state width="1457" height="239" key="GridCell.Tab.0.bottom/57.24.1503.719@57.24.1503.719" timestamp="1585331273705" />
+    <state width="1457" height="131" key="GridCell.Tab.0.bottom/57.24.1503.854@57.24.1503.854" timestamp="1585657293437" />
+    <state width="1725" height="210" key="GridCell.Tab.0.bottom/57.24.1771.1004@57.24.1771.1004" timestamp="1591689022292" />
+    <state width="1725" height="169" key="GridCell.Tab.0.bottom/57.24.1771.846@57.24.1771.846" timestamp="1591697932709" />
+    <state width="1725" height="185" key="GridCell.Tab.0.bottom/57.24.1771.904@57.24.1771.904" timestamp="1587130695177" />
+    <state width="1725" height="169" key="GridCell.Tab.0.bottom/57.24.3600.1823@57.24.3600.1823" timestamp="1591775824209" />
+    <state width="1725" height="169" key="GridCell.Tab.0.center" timestamp="1591775824208">
+      <screen x="57" y="24" width="3600" height="1823" />
+    </state>
+    <state width="1457" height="239" key="GridCell.Tab.0.center/57.24.1503.719@57.24.1503.719" timestamp="1585331273704" />
+    <state width="1457" height="131" key="GridCell.Tab.0.center/57.24.1503.854@57.24.1503.854" timestamp="1585657293430" />
+    <state width="1725" height="210" key="GridCell.Tab.0.center/57.24.1771.1004@57.24.1771.1004" timestamp="1591689022290" />
+    <state width="1725" height="169" key="GridCell.Tab.0.center/57.24.1771.846@57.24.1771.846" timestamp="1591697932707" />
+    <state width="1725" height="185" key="GridCell.Tab.0.center/57.24.1771.904@57.24.1771.904" timestamp="1587130695175" />
+    <state width="1725" height="169" key="GridCell.Tab.0.center/57.24.3600.1823@57.24.3600.1823" timestamp="1591775824208" />
+    <state width="1725" height="169" key="GridCell.Tab.0.left" timestamp="1591775824208">
+      <screen x="57" y="24" width="3600" height="1823" />
+    </state>
+    <state width="1457" height="239" key="GridCell.Tab.0.left/57.24.1503.719@57.24.1503.719" timestamp="1585331273703" />
+    <state width="1457" height="131" key="GridCell.Tab.0.left/57.24.1503.854@57.24.1503.854" timestamp="1585657293429" />
+    <state width="1725" height="210" key="GridCell.Tab.0.left/57.24.1771.1004@57.24.1771.1004" timestamp="1591689022289" />
+    <state width="1725" height="169" key="GridCell.Tab.0.left/57.24.1771.846@57.24.1771.846" timestamp="1591697932707" />
+    <state width="1725" height="185" key="GridCell.Tab.0.left/57.24.1771.904@57.24.1771.904" timestamp="1587130695175" />
+    <state width="1725" height="169" key="GridCell.Tab.0.left/57.24.3600.1823@57.24.3600.1823" timestamp="1591775824208" />
+    <state width="1725" height="169" key="GridCell.Tab.0.right" timestamp="1591775824209">
+      <screen x="57" y="24" width="3600" height="1823" />
+    </state>
+    <state width="1457" height="239" key="GridCell.Tab.0.right/57.24.1503.719@57.24.1503.719" timestamp="1585331273705" />
+    <state width="1457" height="131" key="GridCell.Tab.0.right/57.24.1503.854@57.24.1503.854" timestamp="1585657293436" />
+    <state width="1725" height="210" key="GridCell.Tab.0.right/57.24.1771.1004@57.24.1771.1004" timestamp="1591689022291" />
+    <state width="1725" height="169" key="GridCell.Tab.0.right/57.24.1771.846@57.24.1771.846" timestamp="1591697932708" />
+    <state width="1725" height="185" key="GridCell.Tab.0.right/57.24.1771.904@57.24.1771.904" timestamp="1587130695176" />
+    <state width="1725" height="169" key="GridCell.Tab.0.right/57.24.3600.1823@57.24.3600.1823" timestamp="1591775824209" />
+    <state x="339" y="24" key="SettingsEditor" timestamp="1587376823388">
+      <screen x="57" y="24" width="1771" height="1004" />
+    </state>
+    <state x="296" y="24" key="SettingsEditor/57.24.1503.854@57.24.1503.854" timestamp="1585153901642" />
+    <state x="339" y="24" key="SettingsEditor/57.24.1771.1004@57.24.1771.1004" timestamp="1587376823388" />
+    <state x="542" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1586246809084">
+      <screen x="57" y="24" width="1771" height="904" />
+    </state>
+    <state x="469" y="198" key="com.intellij.ide.util.TipDialog/57.24.1503.719@57.24.1503.719" timestamp="1585327768789" />
+    <state x="542" y="243" key="com.intellij.ide.util.TipDialog/57.24.1771.904@57.24.1771.904" timestamp="1586246809084" />
+    <state x="718" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590139767383">
+      <screen x="57" y="24" width="1771" height="904" />
+    </state>
+    <state x="718" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/57.24.1771.904@57.24.1771.904" timestamp="1590139767383" />
+    <state x="453" y="176" width="710" height="522" key="find.popup" timestamp="1585151715288">
+      <screen x="57" y="24" width="1503" height="854" />
+    </state>
+    <state x="453" y="176" width="710" height="522" key="find.popup/57.24.1503.854@57.24.1503.854" timestamp="1585151715288" />
+    <state x="545" y="183" width="792" height="672" key="search.everywhere.popup" timestamp="1591617229512">
+      <screen x="57" y="24" width="1771" height="846" />
+    </state>
+    <state x="471" y="185" width="672" height="678" key="search.everywhere.popup/57.24.1503.854@57.24.1503.854" timestamp="1585143516296" />
+    <state x="545" y="183" width="792" height="672" key="search.everywhere.popup/57.24.1771.846@57.24.1771.846" timestamp="1591617229512" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/Registers.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/Registers.java</url>
+          <line>184</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/Registers.java</url>
+          <line>189</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/ckan/ResourceManager.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/TestDataCreator.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/ckan/ResourceManager.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/CkanClient.java</url>
+          <line>370</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/CkanClient.java</url>
+          <line>380</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/CkanClient.java</url>
+          <line>335</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/CkanClient.java</url>
+          <line>344</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/CkanClient.java</url>
+          <line>321</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/CkanClient.java</url>
+          <line>314</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/Registers.java</url>
+          <line>291</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/Registers.java</url>
+          <line>296</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/Registers.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/ckan/ResourceManager.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/ckan/ResourceManager.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/ckan/ChangesManager.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/CkanClient.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/CkanClient.java</url>
+          <line>125</line>
+          <properties class="ra.CkanClient" method="createResource">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/CkanClient.java</url>
+          <line>153</line>
+          <properties class="ra.CkanClient" method="createDatastoreResource">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/ra/ckan/ChangesManager.java</url>
+          <line>24</line>
+          <properties field="ckanClient" class="ra.ckan.ChangesManager" />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
