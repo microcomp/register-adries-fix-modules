@@ -27,7 +27,7 @@
 				  <manifest>
 					<addClasspath>true</addClasspath>
 					<classpathPrefix>lib/</classpathPrefix>
-					<mainClass>ra.additional_fixes.Main</mainClass>
+					<mainClass>ra.Main</mainClass>
 				  </manifest>
 				</archive>
 			  </configuration>
@@ -47,7 +47,7 @@
 				  <manifest>
 					<addClasspath>true</addClasspath>
 					<classpathPrefix>lib/</classpathPrefix>
-					<mainClass>ra.additional_fixes.Main</mainClass>
+					<mainClass>ra.Main</mainClass>
 				  </manifest>
 				</archive>
           <descriptorRefs>
